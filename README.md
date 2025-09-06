@@ -15,7 +15,7 @@ guidance.
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e825bd7b-15b3-449f-b77a-47c55a3b2561" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ecbd300d-6d80-4e7b-8ec0-1741a427f037" />
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/386fb49c-356d-4b74-b550-ef4571683c52" />
-Demo Link:
+Google collab Link:
 https://colab.research.google.com/drive/1dHg_SO0Ik2UUd-OPgv2N82flH2-BXlHn#scrollTo=IKEGrVYR4kiZ&line=1&uniqifier=1
 
 
