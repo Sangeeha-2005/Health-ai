@@ -1,10 +1,7 @@
-# Health-ai
-Project Description:
-HealthAI uses the Granite model from Hugging Face to deliver smart,
-easy-to-understand healthcare help. It includes Patient Chat, Disease Prediction,
-Treatment Plans, and adds more functionalities that you like . The project will be
-deployed in Google Colab using Granite for fast, accessible, and secure medical
-guidance.
+# Health-Ai
+HealthAI harnesses IBM Watson Machine Learning and Generative AI to provide intelligent healthcare assistance, offering users accurate medical insights. The platform includes a Patient Chat for answering health-related questions, Disease Prediction that evaluates user-reported symptoms to deliver potential condition details, Treatment Plans that provide personalized medical recommendations, and Health Analytics to visualize and monitor patient health metrics.
+
+Utilizing IBM's Granite-13b-instruct-v2 model, HealthAI processes user inputs to deliver personalized and data-driven medical guidance, improving accessibility to healthcare information. Built with Streamlit and powered by IBM Watson, the platform ensures a seamless and user-friendly experience. With secure API key management and responsible data handling, HealthAI empowers users to make informed health decisions with confidence.
 
  Screen Shot of Google collab
 <img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/2d4983ff-b3d4-479f-870b-dd5e898a3842" />
