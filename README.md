@@ -14,7 +14,8 @@ Utilizing IBM's Granite-13b-instruct-v2 model, HealthAI processes user inputs to
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/386fb49c-356d-4b74-b550-ef4571683c52" />
 Google collab Link:
 https://colab.research.google.com/drive/1dHg_SO0Ik2UUd-OPgv2N82flH2-BXlHn#scrollTo=IKEGrVYR4kiZ&line=1&uniqifier=1
-
+Demo video link :
+https://drive.google.com/file/d/1Taj8Q2sUZ9sQGPu7y6TzKITXRx0Ykyq8/view?usp=drivesdk
 
 
 
