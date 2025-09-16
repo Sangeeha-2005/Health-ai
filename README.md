@@ -18,7 +18,9 @@ https://colab.research.google.com/drive/1dHg_SO0Ik2UUd-OPgv2N82flH2-BXlHn#scroll
 Demo video link :
 https://drive.google.com/file/d/1Taj8Q2sUZ9sQGPu7y6TzKITXRx0Ykyq8/view?usp=drivesdk
 
-Project Document
+Project Document:
+
+https://drive.google.com/file/d/1htt5rie19bP6MK1zP0ReWjALdeVgStyd/view?usp=drivesdk
 
 
 
